@@ -25,4 +25,3 @@ if __name__ == "__main__":
             print("[{}] {}".format(my_id, my_name))
         except ValueError as invalid_json:
             print('Not a valid JSON')
-

@@ -10,4 +10,3 @@ if __name__ == "__main__":
         for header in meta._headers:
             if header[0] == 'X-Request-Id':
                 print(header[1])
-

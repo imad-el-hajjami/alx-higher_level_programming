@@ -10,4 +10,3 @@ if __name__ == "__main__":
 \t- type: {}
 \t- content: {}'''.format(type(content), content)
     print(print_str)
-
